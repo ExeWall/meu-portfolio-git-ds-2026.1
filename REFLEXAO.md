@@ -5,6 +5,8 @@ Além disso, lidar com o terminal no Windows trouxe barreiras técnicas chatas. 
 
 O que ficou claro
 Apesar das minhas dificuldades, o conceito de branches agora faz muito mais sentido. Entendi que trabalhar em uma branch é como ter um rascunho seguro onde posso errar sem comprometer a versão principal do código. O uso de commits semânticos também se provou muito útil; termos como feat, fix e docs ajudam a "bater o olho" no histórico e saber exatamente o que aconteceu em cada etapa, algo essencial para um desenvolvimento profissional. Também ficou claro para mim como o Pull Request no site do GitHub serve como um filtro de qualidade, me permitindo revisar as mudanças e adicionar comentários antes de levar tudo para a main.
+Também compreendi a importância da documentação contínua. Manter o arquivo REGISTRO.md atualizado durante a resolução de conflitos não serviu apenas para cumprir uma tarefa, mas para me ajudar a organizar o pensamento sobre qual decisão técnica tomar.
 
 O que ainda é confuso
 Ainda me sinto um pouco inseguro com a parte de "sincronização" total. Às vezes fico na dúvida se o que está no meu computador está exatamente igual ao que está no GitHub, especialmente quando uso o comando pull. Também tenho curiosidade sobre como o Git lida com conflitos em arquivos binários ou projetos muito grandes, onde centenas de pessoas alteram a mesma base de código simultaneamente. Espero que, com as próximas disciplinas de programação, esse processo se torne algo automático no meu dia a dia e eu possa fazer com mais naturalidade.
+Por fim, ainda pretendo explorar mais os comandos de 'limpeza', como o git stash ou o git reset, que parecem ser úteis quando cometemos erros mais graves no código local.
